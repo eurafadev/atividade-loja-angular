@@ -5,7 +5,7 @@ Esse projeto foi feito com  [Angular CLI](https://github.com/angular/angular-cli
 
 ## Servidor Local
 
-Execute o comando `ng serve`. Abra o link `http://localhost:4200/` no navegador. TA aplicação vai atualizar automaticamente a cada atualização que você fizer.
+Execute o comando `ng serve`. Abra o link `http://localhost:4200/` no navegador. A aplicação vai atualizar automaticamente a cada atualização que você fizer.
 
 ## Suporte
 
@@ -22,4 +22,4 @@ Execute `ng test` para testar a unidade via [Karma](https://karma-runner.github.
 
 ## Ajuda
 
-Para mais ajuda em Angular use `ng help` ou dê uma olhada na pagina [Angular CLI Overview and Command Reference](https://angular.io/cli).
+Para mais ajuda em Angular use `ng help` ou acesse a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
